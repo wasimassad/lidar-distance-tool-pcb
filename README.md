@@ -25,4 +25,4 @@ Dedicated to supporting peripherals such as display interface, user inputs, or s
 
 ## 🛠 Software Used
 
-- KiCad
+- KiCad 9.0
