@@ -1,0 +1,17 @@
+# KiCad backups/autosave/cache
+*.bak
+*.bck
+*.kicad_prl
+*.kicad_pro-bak
+_autosave-*
+*.tmp
+*.temp
+**/fp-info-cache
+**/sym-lib-table-bak
+**/fp-lib-table-bak
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
