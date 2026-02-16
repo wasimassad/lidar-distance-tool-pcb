@@ -13,13 +13,13 @@ All boards were designed using KiCad.
 This system consists of three custom printed circuit boards:
 
 ### 🔹 PCB1 – Power Board
-Handles AC/DC conversion, voltage regulation, and battery charging circuitry.
+Handles AC/DC conversion and voltage regulation.
 
-### 🔹 PCB2 – Main Control Board
-Contains the microcontroller, LiDAR interface, display connections, and control logic.
+### 🔹 PCB2 –  Battery Charging Circuitry
+Comprises the battery charging IC for proper, stable, and fast charging of the Li-po battery. Also contains the 5V and 3.3V regulators for the necessary power rails.
 
-### 🔹 PCB3 – Auxiliary / Sensor Board
-Dedicated to supporting peripherals such as display interface, user inputs, or sensor modules.
+### 🔹 PCB3 – Main Control Board / Sensor Board
+Contains the microcontroller, LiDAR module, display connections, and integrated sensors.
 
 ---
 
